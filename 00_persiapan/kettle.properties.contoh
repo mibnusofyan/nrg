@@ -1,0 +1,12 @@
+# Tambahkan baris di bawah ke %USERPROFILE%\.kettle\kettle.properties (Windows)
+# atau ~/.kettle/kettle.properties (Linux/Mac), lalu buka ulang Spoon.
+# Sesuaikan nilainya dengan laptop masing-masing; jangan commit password asli.
+
+# Folder paket data asli (pakai garis miring /)
+NRG_DATA_DIR=E:/path/ke/folder/Data
+
+# Server MySQL/MariaDB (XAMPP biasanya 3306)
+NRG_DB_HOST=localhost
+NRG_DB_PORT=3306
+NRG_DB_USER=root
+NRG_DB_PASS=
