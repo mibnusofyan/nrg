@@ -1,0 +1,6 @@
+# Berkas kunci Office (~$nama.docx, ~$nama.xlsx): ada selama dokumen dibuka dan
+# dikunci Word/Excel, sehingga "git add -A" gagal dengan "Permission denied".
+~$*
+
+# Transformasi coretan untuk profiling Tahap 3.2, tidak ikut dikumpulkan.
+x_eksplorasi.ktr
